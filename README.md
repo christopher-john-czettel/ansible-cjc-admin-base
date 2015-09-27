@@ -6,21 +6,21 @@ Ansible role that installs a few default packages I like having around when work
 Packages
 --------
 
- * *htop
- * *tmux
- * *vim-nox
- * *nmap
- * *nload
- * *curl
- * *nmap
- * *git
- * *iptraf
- * *strace
- * *mtr
- * *vnstat
- * *tcptrack
- * *socat
- * *apachetop 
+ * htop
+ * tmux
+ * vim-nox
+ * nmap
+ * nload
+ * curl
+ * nmap
+ * git
+ * iptraf
+ * strace
+ * mtr
+ * vnstat
+ * tcptrack
+ * socat
+ * apachetop 
 
 License
 -------

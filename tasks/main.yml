@@ -1,0 +1,19 @@
+    - name: Install usefull packages that admins love
+      action: apt update_cache=true
+      action: apt pkg={{ item }} state=installed
+      with_items:
+          - htop
+          - tmux
+          - vim-nox
+          - nmap
+          - nload
+          - curl
+          - nmap
+          - git
+          - iptraf
+          - strace
+          - mtr
+          - vnstat
+          - tcptrack
+          - socat
+          - apachetop 

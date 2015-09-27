@@ -22,13 +22,36 @@ Packages
  * socat
  * apachetop 
 
+ 
+Installation
+============
+
+
+requirements.yml
+----------------
+
+Add following to your requirements.yml:
+
+```
+- src: git+https://github.com/christopher-john-czettel/ansible-cjc-admin-base
+  version: "master"
+  name: cjc-admin-base
+  path : external
+```
+
+Then run:
+
+```
+ansible-galaxy install -r requirements.yml
+```
+
+
 License
--------
+=======
 
 MIT
 
 Author Information
-------------------
+==================
 
 Christopher John CZETTEL (<chris@christopher-czettel.net>)
-

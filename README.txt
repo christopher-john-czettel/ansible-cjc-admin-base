@@ -1,7 +1,7 @@
 cjc-admin-base
 ==============
 
-Ansible role that tnstalls a few default packages I like having around when working on a Debian/Ubuntu system.
+Ansible role that installs a few default packages I like having around when working on a Debian/Ubuntu system.
 
 Packages
 --------

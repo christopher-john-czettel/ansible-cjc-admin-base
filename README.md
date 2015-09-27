@@ -27,9 +27,6 @@ Installation
 ============
 
 
-requirements.yml
-----------------
-
 Add following to your requirements.yml:
 
 ```

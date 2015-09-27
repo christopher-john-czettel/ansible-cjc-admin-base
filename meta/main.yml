@@ -1,7 +1,7 @@
 ---
 galaxy_info:
   author: Christopher John CZETTEL
-  description: 
+  description: Installs a few default packages I like having around when working on a Debian/Ubuntu system
   license: MIT
   min_ansible_version: 1.9
   platforms:
